@@ -99,8 +99,8 @@ function Layout() {
       <nav className="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0 px-4 px-lg-5">
         <Link to="/" className="navbar-brand d-flex align-items-center">
           <h2 className="m-0 text-primary">
-            <img className="img-fluid me-2" src="/img/icon-1.png" alt="" style={{ width: "45px" }} />
-            OnChain
+            <img className="img-fluid me-2" src="/myapps/img/icon-1.png" alt="" style={{ width: "150px" }} />
+            {/* OnChain */}
           </h2>
         </Link>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -156,10 +156,10 @@ function Layout() {
           <div className="row g-5">
             <div className="col-md-6">
               <h1 className="text-primary mb-4">
-                <img className="img-fluid me-2" src="/img/icon-1.png" alt="" style={{ width: "45px" }} />
-                CryptoCoin
+                <img className="img-fluid me-2" src="/myapps/img/icon-1.png" alt="" style={{ width: "150px" }} />
+                {/* Onchain */}
               </h1>
-              <span>Empowering the future of digital finance through secure, innovative blockchain solutions.</span>
+              <span>Shaping the Future with Innovative Solutions.</span>
             </div>
             <div className="col-md-6">
               <h5 className="mb-4">Newsletter</h5>
@@ -183,18 +183,41 @@ function Layout() {
                 </div>
               </form>
             </div>
-            <div className="col-lg-3 col-md-6">
+            {/* <div className="col-lg-3 col-md-6">
               <h5 className="mb-4">Get In Touch</h5>
               <p><i className="fa fa-map-marker-alt me-3"></i>123 Street, New York, USA</p>
               <p><i className="fa fa-phone-alt me-3"></i>+1 234 567 890</p>
               <p><i className="fa fa-envelope me-3"></i>info@cryptocoin.com</p>
-            </div>
+            </div> */}
+
             <div className="col-lg-3 col-md-6">
+                <h5 className="mb-4">Contact Us</h5>
+                <p><i className="fa fa-map-marker-alt me-3"></i>House # 353, 3rd Floor (North), Road # 05, DOHS Baridhara, Dhaka-1206</p>
+                <p><i className="fa fa-phone-alt me-3"></i>0964311227</p>
+                <p>
+                    <i className="fa fa-envelope me-3"></i>
+                    <a href="mailto:info@onchain.com.bd">info@onchain.com.bd</a><br/> {/* Added line break for second email */}
+                    <i className="fa fa-envelope me-3"></i>
+                    <a href="mailto:onchainsoftwareresearch@gmail.com">onchainsoftwareresearch@gmail.com</a>
+                </p>
+            </div>
+            {/* <div className="col-lg-3 col-md-6">
               <h5 className="mb-4">Our Services</h5>
               <Link to="/service" className="btn btn-link">Currency Wallet</Link>
               <Link to="/service" className="btn btn-link">Currency Transaction</Link>
               <Link to="/service" className="btn btn-link">Bitcoin Investment</Link>
               <Link to="/service" className="btn btn-link">Token Sale</Link>
+            </div> */}
+
+            <div className="col-lg-3 col-md-6">
+              <h5 className="mb-4">Our Services</h5>
+              <ul className="list-unstyled">
+                <li><Link to="/b2g-services" className="btn btn-link">B2G Services</Link></li>
+                <li><Link to="/enterprise-blockchain" className="btn btn-link">Enterprise Blockchain</Link></li>
+                <li><Link to="/decentralized-finance" className="btn btn-link">Decentralized Finance</Link></li>
+                <li><Link to="/healthtech-blockchain" className="btn btn-link">HealthTech Blockchain</Link></li>
+                <li><Link to="/multiverse-robotics" className="btn btn-link">Multiverse & Robotics</Link></li>
+              </ul>
             </div>
             <div className="col-lg-3 col-md-6">
               <h5 className="mb-4">Quick Links</h5>

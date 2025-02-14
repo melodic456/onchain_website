@@ -17,7 +17,7 @@ export function About() {
               </nav>
             </div>
             <div className="col-lg-6 animated fadeIn">
-              <img className="img-fluid animated pulse infinite" style={{ animationDuration: "3s" }} src="/img/hero-2.png" alt="" />
+              <img className="img-fluid animated pulse infinite" style={{ animationDuration: "3s" }} src="/myapps/img/hero-2.png" alt="" />
             </div>
           </div>
         </div>
@@ -29,7 +29,7 @@ export function About() {
         <div className="container">
           <div className="row g-5 align-items-center">
             <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-              <img className="img-fluid" src="/img/about.png" alt="" />
+              <img className="img-fluid" src="/myapps/img/about.png" alt="" />
             </div>
             <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
               <div className="h-100">
@@ -63,17 +63,17 @@ export function About() {
         <div className="container py-5">
           <div className="row g-5">
             <div className="col-lg-4 col-md-6 text-center wow fadeIn" data-wow-delay="0.1s">
-              <img className="img-fluid mb-4" src="/img/icon-9.png" alt="" />
+              <img className="img-fluid mb-4" src="/myapps/img/icon-9.png" alt="" />
               <h1 className="display-4" data-toggle="counter-up">123456</h1>
               <p className="fs-5 text-primary mb-0">Today Transactions</p>
             </div>
             <div className="col-lg-4 col-md-6 text-center wow fadeIn" data-wow-delay="0.3s">
-              <img className="img-fluid mb-4" src="/img/icon-10.png" alt="" />
+              <img className="img-fluid mb-4" src="/myapps/img/icon-10.png" alt="" />
               <h1 className="display-4" data-toggle="counter-up">123456</h1>
               <p className="fs-5 text-primary mb-0">Monthly Transactions</p>
             </div>
             <div className="col-lg-4 col-md-6 text-center wow fadeIn" data-wow-delay="0.5s">
-              <img className="img-fluid mb-4" src="/img/icon-2.png" alt="" />
+              <img className="img-fluid mb-4" src="/myapps/img/icon-2.png" alt="" />
               <h1 className="display-4" data-toggle="counter-up">123456</h1>
               <p className="fs-5 text-primary mb-0">Total Transactions</p>
             </div>

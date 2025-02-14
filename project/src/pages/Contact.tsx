@@ -30,7 +30,7 @@ export function Contact() {
               </nav>
             </div>
             <div className="col-lg-6 animated fadeIn">
-              <img className="img-fluid animated pulse infinite" style={{ animationDuration: "3s" }} src="/img/hero-2.png" alt="" />
+              <img className="img-fluid animated pulse infinite" style={{ animationDuration: "3s" }} src="/myapps/img/hero-2.png" alt="" />
             </div>
           </div>
         </div>

@@ -19,7 +19,7 @@ export function Home() {
               </Link>
             </div>
             <div className="col-lg-6 animated fadeIn">
-              <img className="img-fluid animated pulse infinite" style={{ animationDuration: "3s" }} src="/img/hero-1.png" alt="" />
+              <img className="img-fluid animated pulse infinite" style={{ animationDuration: "3s" }} src="/myapps/img/hero-1.png" alt="" />
             </div>
           </div>
         </div>
@@ -31,7 +31,7 @@ export function Home() {
         <div className="container">
           <div className="row g-5 align-items-center">
             <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
-              <img className="img-fluid" src="/img/about.png" alt="" />
+              <img className="img-fluid" src="/myapps/img/about.png" alt="" />
             </div>
             <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
               <div className="h-100">
@@ -70,17 +70,17 @@ export function Home() {
         <div className="container py-5">
           <div className="row g-5">
             <div className="col-lg-4 col-md-6 text-center wow fadeIn" data-wow-delay="0.1s">
-              <img className="img-fluid mb-4" src="/img/icon-9.png" alt="" />
+              <img className="img-fluid mb-4" src="/myapps/img/icon-9.png" alt="" />
               <h1 className="display-4" data-toggle="counter-up">123456</h1>
               <p className="fs-5 text-primary mb-0">Today Transactions</p>
             </div>
             <div className="col-lg-4 col-md-6 text-center wow fadeIn" data-wow-delay="0.3s">
-              <img className="img-fluid mb-4" src="/img/icon-10.png" alt="" />
+              <img className="img-fluid mb-4" src="/myapps/img/icon-10.png" alt="" />
               <h1 className="display-4" data-toggle="counter-up">123456</h1>
               <p className="fs-5 text-primary mb-0">Monthly Transactions</p>
             </div>
             <div className="col-lg-4 col-md-6 text-center wow fadeIn" data-wow-delay="0.5s">
-              <img className="img-fluid mb-4" src="/img/icon-2.png" alt="" />
+              <img className="img-fluid mb-4" src="/myapps/img/icon-2.png" alt="" />
               <h1 className="display-4" data-toggle="counter-up">123456</h1>
               <p className="fs-5 text-primary mb-0">Total Transactions</p>
             </div>
@@ -99,7 +99,7 @@ export function Home() {
           <div className="row g-4">
             <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
               <div className="service-item bg-light p-5">
-                <img className="img-fluid mb-4" src="/img/icon-7.png" alt="" />
+                <img className="img-fluid mb-4" src="/myapps/img/icon-7.png" alt="" />
                 <h5 className="mb-3">Government-Based Services</h5>
                 <p>Empowering governments with blockchain solutions to optimize public services and build trust.</p>
                 <a href="">Read More <i className="fa fa-arrow-right ms-2"></i></a>
@@ -107,7 +107,7 @@ export function Home() {
             </div>
             <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
               <div className="service-item bg-light p-5">
-                <img className="img-fluid mb-4" src="/img/icon-3.png" alt="" />
+                <img className="img-fluid mb-4" src="/myapps/img/icon-3.png" alt="" />
                 <h5 className="mb-3">Enterprise Blockchain Solutions</h5>
                 <p>Increase ROI with enterprise-grade blockchain solutions powered by AI, Robotics, and IoT technology.</p>
                 <a href="">Read More <i className="fa fa-arrow-right ms-2"></i></a>
@@ -115,7 +115,7 @@ export function Home() {
             </div>
             <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
               <div className="service-item bg-light p-5">
-                <img className="img-fluid mb-4" src="/img/icon-9.png" alt="" />
+                <img className="img-fluid mb-4" src="/myapps/img/icon-9.png" alt="" />
                 <h5 className="mb-3">Decentralized Finance (DeFi)</h5>
                 <p>Transforming finance with blockchain-powered solutions that redefine trust and accessibility.</p>
                 <a href="">Read More <i className="fa fa-arrow-right ms-2"></i></a>
@@ -123,7 +123,7 @@ export function Home() {
             </div>
             <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
               <div className="service-item bg-light p-5">
-                <img className="img-fluid mb-4" src="/img/icon-5.png" alt="" />
+                <img className="img-fluid mb-4" src="/myapps/img/icon-5.png" alt="" />
                 <h5 className="mb-3">Tokenomics & Crypto Asset Development</h5>
                 <p>Creating utility-driven digital assets for innovative ecosystems.</p>
                 <a href="">Read More <i className="fa fa-arrow-right ms-2"></i></a>
@@ -131,7 +131,7 @@ export function Home() {
             </div>
             <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
               <div className="service-item bg-light p-5">
-                <img className="img-fluid mb-4" src="/img/icon-2.png" alt="" />
+                <img className="img-fluid mb-4" src="/myapps/img/icon-2.png" alt="" />
                 <h5 className="mb-3">Healthcare and Life Sciences</h5>
                 <p>Predictive analytics improving early detection and personalized treatment plans.</p>
                 <a href="">Read More <i className="fa fa-arrow-right ms-2"></i></a>
@@ -139,7 +139,7 @@ export function Home() {
             </div>
             <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
               <div className="service-item bg-light p-5">
-                <img className="img-fluid mb-4" src="/img/icon-8.png" alt="" />
+                <img className="img-fluid mb-4" src="/myapps/img/icon-8.png" alt="" />
                 <h5 className="mb-3">Multiverse, VR, and AR.</h5>
                 <p>Revolutionizing healthcare with blockchain, AI, and immersive technologies like Multiverse, VR, and AR.</p>
                 <a href="">Read More <i className="fa fa-arrow-right ms-2"></i></a>
@@ -155,34 +155,34 @@ export function Home() {
         <div className="container">
           <div className="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style={{ maxWidth: "500px" }}>
             <h1 className="display-6">Why Us!</h1>
-            <p className="text-primary fs-5 mb-5">The Best In The Crypto Industry</p>
+            <p className="text-primary fs-5 mb-5">Driven by Innovation, Focused on Security</p>
           </div>
           <div className="row g-5">
             <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
               <div className="d-flex align-items-start">
-                <img className="img-fluid flex-shrink-0" src="/img/icon-7.png" alt="" />
+                <img className="img-fluid flex-shrink-0" src="/myapps/img/icon-7.png" alt="" />
                 <div className="ps-4">
-                  <h5 className="mb-3">Easy To Start</h5>
-                  <span>Get started with cryptocurrency in minutes with our simple onboarding process</span>
+                  <h5 className="mb-3">Innovation-Driven Approach</h5>
+                  <span>We continuously explore and integrate emerging technologies to stay ahead of the curve.</span>
                 </div>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
               <div className="d-flex align-items-start">
-                <img className="img-fluid flex-shrink-0" src="/img/icon-6.png" alt="" />
+                <img className="img-fluid flex-shrink-0" src="/myapps/img/icon-6.png" alt="" />
                 <div className="ps-4">
-                  <h5 className="mb-3">Safe & Secure</h5>
-                  <span>Advanced security measures to protect your digital assets</span>
+                  <h5 className="mb-3">User-Centric Design</h5>
+                    <span>We prioritize seamless, intuitive user experiences, ensuring that our solutions are easy to implement and use.</span>
                 </div>
               </div>
             </div>
             <div className="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
               <div className="d-flex align-items-start">
-                <img className="img-fluid flex-shrink-0" src="/img/icon-5.png" alt="" />
+                <img className="img-fluid flex-shrink-0" src="/myapps/img/icon-5.png" alt="" />
                 <div className="ps-4">
-                  <h5 className="mb-3">Affordable Plans</h5>
-                  <span>Competitive fees and flexible plans for all types of traders</span>
-                </div>
+                  <h5 className="mb-3">Commitment to Security</h5>
+                  <span>Our systems are designed with robust security frameworks to safeguard your data and maintain trust.</span>
+              </div>
               </div>
             </div>
           </div>

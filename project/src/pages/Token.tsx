@@ -17,7 +17,7 @@ export function Token() {
               </nav>
             </div>
             <div className="col-lg-6 animated fadeIn">
-              <img className="img-fluid animated pulse infinite" style={{ animationDuration: "3s" }} src="/img/hero-2.png" alt="" />
+              <img className="img-fluid animated pulse infinite" style={{ animationDuration: "3s" }} src="/myapps/img/hero-2.png" alt="" />
             </div>
           </div>
         </div>
@@ -60,10 +60,10 @@ export function Token() {
               <a className="btn btn-primary py-3 px-4" href="">Buy Token</a>
             </div>
             <div className="col-12 text-center">
-              <img className="img-fluid m-1" src="/img/payment-1.png" alt="" style={{ width: "50px" }} />
-              <img className="img-fluid m-1" src="/img/payment-2.png" alt="" style={{ width: "50px" }} />
-              <img className="img-fluid m-1" src="/img/payment-3.png" alt="" style={{ width: "50px" }} />
-              <img className="img-fluid m-1" src="/img/payment-4.png" alt="" style={{ width: "50px" }} />
+              <img className="img-fluid m-1" src="/myapps/img/payment-1.png" alt="" style={{ width: "50px" }} />
+              <img className="img-fluid m-1" src="/myapps/img/payment-2.png" alt="" style={{ width: "50px" }} />
+              <img className="img-fluid m-1" src="/myapps/img/payment-3.png" alt="" style={{ width: "50px" }} />
+              <img className="img-fluid m-1" src="/myapps/img/payment-4.png" alt="" style={{ width: "50px" }} />
             </div>
           </div>
         </div>
