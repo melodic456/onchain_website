@@ -100,7 +100,7 @@ function Layout() {
         <Link to="/" className="navbar-brand d-flex align-items-center">
           <h2 className="m-0 text-primary">
             <img className="img-fluid me-2" src="/img/icon-1.png" alt="" style={{ width: "45px" }} />
-            CryptoCoin
+            OnChain
           </h2>
         </Link>
         <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
@@ -218,11 +218,11 @@ function Layout() {
           <div className="container">
             <div className="row">
               <div className="col-md-6 text-center text-md-start mb-3 mb-md-0">
-                &copy; 2025 CryptoCoin, All Right Reserved.
+                &copy; 2025 OnChain, All Right Reserved.
               </div>
-              <div className="col-md-6 text-center text-md-end">
+              {/* <div className="col-md-6 text-center text-md-end">
                 Designed By HTML Codex
-              </div>
+              </div> */}
             </div>
           </div>
         </div>

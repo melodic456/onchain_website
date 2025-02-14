@@ -34,10 +34,11 @@ export function About() {
             <div className="col-lg-6 wow fadeInUp" data-wow-delay="0.5s">
               <div className="h-100">
                 <h1 className="display-6">About Us</h1>
-                <p className="text-primary fs-5 mb-4">The Most Trusted Cryptocurrency Platform</p>
-                <p>At CryptoCoin, we're dedicated to making cryptocurrency accessible to everyone. Our platform combines cutting-edge security with user-friendly features to provide the best possible experience in digital asset management.</p>
-                <p className="mb-4">With years of experience in blockchain technology and financial services, we've built a platform that prioritizes security, transparency, and user experience.</p>
-                <div className="d-flex align-items-center mb-2">
+                <p className="text-primary fs-5 mb-4">Innovating the Future, One Block at a Time</p>
+                <p>In a world where innovation moves at lightning speed, staying ahead requires more than just technology—it demands mastery. That’s where we come in. By combining blockchain , AI , and IoT , we craft ecosystems that are not only revolutionary but also sustainable, transparent, and infinitely scalable.
+                </p>
+                {/* <p className="mb-4">With years of experience in blockchain technology and financial services, we've built a platform that prioritizes security, transparency, and user experience.</p> */}
+                {/* <div className="d-flex align-items-center mb-2">
                   <i className="fa fa-check bg-light text-primary btn-sm-square rounded-circle me-3 fw-bold"></i>
                   <span>Licensed and regulated platform</span>
                 </div>
@@ -49,7 +50,7 @@ export function About() {
                   <i className="fa fa-check bg-light text-primary btn-sm-square rounded-circle me-3 fw-bold"></i>
                   <span>24/7 dedicated support</span>
                 </div>
-                <a className="btn btn-primary py-3 px-4" href="">Read More</a>
+                <a className="btn btn-primary py-3 px-4" href="">Read More</a> */}
               </div>
             </div>
           </div>
